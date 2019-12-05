@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Base64ImageToString</string>
+    <string name="go_to_gallery">Go to gallery</string>
+    <string name="image_view_content_description">Image</string>
+    <string name="click_to_select_image">Click on the button to select image from gallery and display it on the screen after selecting it. Below you will see Base64 String representation of your image</string>
+    <string name="by_viktor">created by Viktor Jovanovski</string>
+    <string name="your_image">Your image will appear here</string>
+    <string name="your_text">Your Base64 String will appear here</string>
+</resources>
